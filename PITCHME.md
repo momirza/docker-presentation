@@ -21,7 +21,8 @@ Error: You have no permissions
 
 +++
 
-![usevirtualenv](assets/images/use_pyenv.jpg)
+---?imageassets/images/use_pyenv.jpg
+![works on my machine](assets/images/works_on_my_machine.png)
 
 +++
 
@@ -35,8 +36,6 @@ stack overflow
 +++?image=assets/images/totem.jpg&size=contain
 
 
-
-![works on my machine](assets/images/works_on_my_machine.png)
 
 ---
 
