@@ -7,7 +7,7 @@
 
 ---
 
-<span class="gold">Dockerfile</span> for the Django App
+<span class="gold">`Dockerfile`</span> for the Django App
 <br>
 
 ```Dockerfile
