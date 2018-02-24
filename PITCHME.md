@@ -18,7 +18,7 @@ $ pip install some-package
 Error: You have no permissions
 ``` 
 
-+++?imageassets/images/use_pyenv.jpg
++++?image=assets/images/use_pyenv.jpg
 ![works on my machine](assets/images/works_on_my_machine.png)
 
 +++
