@@ -5,7 +5,7 @@
 ---
 
 
-### <span class="gold">Dockerfile for the Django App</span>
+### <span class="gold">Dockerfile</span> for the Django App
 <br>
 
 ```Dockerfile
@@ -13,13 +13,9 @@ FROM python:2-onbuild
 
 COPY start.sh /start.sh
 
-EXPOSE 8000
-
-
 CMD ["/start.sh"]
 ```
 
 @[1](Download from .)
 @[3](Start the server)
 @[3](Push PITCHME.md to your public repo and you're done!)
-@[5](Supports GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs.)
