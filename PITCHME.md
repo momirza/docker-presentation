@@ -4,6 +4,9 @@
 
 ---
 
+---?image=assets/images/61030003.jpg
+
+---
 
 ### <span class="gold">Dockerfile</span> for the Django App
 <br>
