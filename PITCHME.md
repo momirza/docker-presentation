@@ -36,7 +36,7 @@ stack overflow
 
 
 
-+++?image=assets/images/works_on_my_machine.png
+![works on my machine](assets/images/works_on_my_machine.png)
 
 ---
 
