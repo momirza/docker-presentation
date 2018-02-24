@@ -28,7 +28,7 @@ Error: You have no permissions
 ![vulnerability](assets/images/python_exploit.jpg)
 
 
-+++?image=assets/images/totem.jpg&size=auto
++++?image=assets/images/totem.jpg&size=contain
 
 
 ---
