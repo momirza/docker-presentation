@@ -2,13 +2,12 @@
 ## Development with Containers
 ##### <span style="font-family:Helvetica Neue; font-weight:bold">Using <span style="color:#0075c9">Docker</span> locally</span>
 
----
 
 ---?image=assets/images/61030003.jpg
 
 ---
 
-### <span class="gold">Dockerfile</span> for the Django App
+<span class="gold">Dockerfile</span> for the Django App
 <br>
 
 ```Dockerfile
