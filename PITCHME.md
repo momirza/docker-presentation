@@ -21,7 +21,7 @@ EXPOSE 8000
 CMD ["/start.sh"]
 ```
 
-@[1](Add your PITCHME.md slideshow content file.)
+@[1](Download from .)
 @[2](Commit PITCHME.md to your local repo.)
 @[3](Push PITCHME.md to your public repo and you're done!)
 @[5](Supports GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs.)
