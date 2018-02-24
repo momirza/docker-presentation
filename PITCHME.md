@@ -12,6 +12,8 @@ Installing a simple python app
  
 +++
 
+![vulnerability](assets/immages/python_exploit.jpg)
+
 +++
 
 ---?image=assets/images/totem.jpg
