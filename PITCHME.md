@@ -12,6 +12,19 @@ Installing a simple python app
  
 +++
 
+
+```bash
+$ pip install some-package
+Error: You have no permissions
+``` 
+
+
++++
+
+![usevirtualenv](assets/immages/python_exploit.jpg)
+
++++
+
 ![vulnerability](assets/immages/python_exploit.jpg)
 
 +++
