@@ -21,11 +21,15 @@ Error: You have no permissions
 
 +++
 
-![usevirtualenv](assets/images/python_exploit.jpg)
+![usevirtualenv](assets/images/use_pyenv.jpg)
 
 +++
 
-![vulnerability](assets/images/python_exploit.jpg)
+stack overflow
+
++++
+
+![vulnerability](assets/images/python_exploit.png)
 
 
 +++?image=assets/images/totem.jpg&size=contain
