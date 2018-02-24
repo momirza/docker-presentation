@@ -4,16 +4,25 @@
 
 @fa[docker]
 
-@fa[code-fork]
-
 ---?image=assets/images/61030003.jpg
 
-#### <span class="gold">The current state of things</span>
+--- 
 
----
+Installing a simple python app
+ 
++++
+
++++
+
+---?image=assets/images/totem.jpg
+
++++
+
 
 <span class="gold">`Dockerfile`</span> for the Django App
 <br>
+
+
 
 ```Dockerfile
 FROM python:2-onbuild
@@ -26,3 +35,4 @@ CMD ["/start.sh"]
 @[1](Download from .)
 @[3](Start the server)
 @[3](Push PITCHME.md to your public repo and you're done!)
+
