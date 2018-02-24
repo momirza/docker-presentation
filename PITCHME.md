@@ -5,7 +5,8 @@
 
 ---?image=assets/images/61030003.jpg
 
-<span class="white">The current state of things</span>
+####<span class="white">The current state of things</span>
+
 ---
 
 <span class="gold">`Dockerfile`</span> for the Django App
