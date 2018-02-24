@@ -5,12 +5,10 @@
 ---
 
 
-### <span class="gold">Dockerfile</span>
+### <span class="gold">Dockerfile for the Django App</span>
 <br>
 
 ```Dockerfile
-# Dockerfile
-
 FROM python:2-onbuild
 
 COPY start.sh /start.sh
