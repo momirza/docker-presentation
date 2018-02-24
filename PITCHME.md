@@ -21,11 +21,11 @@ Error: You have no permissions
 
 +++
 
-![usevirtualenv](assets/immages/python_exploit.jpg)
+![usevirtualenv](assets/images/python_exploit.jpg)
 
 +++
 
-![vulnerability](assets/immages/python_exploit.jpg)
+![vulnerability](assets/images/python_exploit.jpg)
 
 +++
 
