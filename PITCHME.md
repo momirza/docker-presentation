@@ -29,10 +29,10 @@ Error: You have no permissions
 
 +++
 
----?image=assets/images/totem.jpg
++++?image=assets/images/totem.jpg
 
-+++
 
+---
 
 <span class="gold">`Dockerfile`</span> for the Django App
 <br>
