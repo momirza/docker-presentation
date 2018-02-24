@@ -35,6 +35,9 @@ stack overflow
 +++?image=assets/images/totem.jpg&size=contain
 
 
+
++++?image=assets/images/works_on_my_machine.png
+
 ---
 
 <span class="gold">`Dockerfile`</span> for the Django App
