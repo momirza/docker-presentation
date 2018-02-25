@@ -51,6 +51,6 @@ CMD ["/start.sh"]
 ```
 
 @[1](Download from .)
-@[3](Start the server)
-@[3](Push PITCHME.md to your public repo and you're done!)
+@[3](Copy the source code)
+@[5](Start the server when container launches)
 
