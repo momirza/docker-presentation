@@ -4,7 +4,7 @@
 
 @fa[docker] 
 
----?image=assets/images/big_poo.png&size=auto 30%
+---?image=assets/images/big_poo.png&size=auto 20%
 +++?include=pitchme/01-story.md
 
 --- 
