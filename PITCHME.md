@@ -9,7 +9,7 @@
 
 --- 
 
-@fa[lightbulb-o]
+@fa[lightbulb-o-3x]
 
 +++?include=pitchme/02-docker.md
 
