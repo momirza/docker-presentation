@@ -1,6 +1,6 @@
 ---?image=assets/images/61030003.jpg&size=contain
 
---- 
++++ 
 
 Installing a simple python app
  
