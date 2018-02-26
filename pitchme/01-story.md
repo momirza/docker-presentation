@@ -1,6 +1,3 @@
-![poo](assets/images/big_poo.png&size=auto 30%)
-
-+++
 
 Installing a simple python app
  

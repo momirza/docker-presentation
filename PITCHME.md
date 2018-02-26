@@ -4,8 +4,13 @@
 
 @fa[docker] 
 
+---?image=assets/images/big_poo.png&size=auto 30%
++++?include=pitchme/01-story.md
 
----?include=pitchme/01-story.md
+--- 
 
----?include=pitchme/02-docker.md
+@fa[lightbulb]
 
++++?include=pitchme/02-docker.md
+
+---
