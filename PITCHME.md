@@ -19,7 +19,7 @@
 
 +++?include=pitchme/03-compose.md
 
----?image=assets/images/terrible_old_i.svg&size=auto 20%
+---?image=assets/images/terrible_old_i.svg&size=auto 28%
 
 +++?include=pitchme/04-uses.md
 
