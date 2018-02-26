@@ -9,7 +9,7 @@
 
 --- 
 
-@fa[code-fork]
+@fa[lightbulb-o]
 
 +++?include=pitchme/02-docker.md
 
