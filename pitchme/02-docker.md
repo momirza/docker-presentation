@@ -14,4 +14,4 @@ CMD ["/start.sh"]
 @[3](Copy the source code)
 @[4](Start the server when container launches)
 
-+++?image=assets/images/whale_of_a_time.jpg&size=auto 80&color=#71C7B1
++++?image=assets/images/whale_of_a_time.jpg&size=auto 80%&color=#71C7B1
