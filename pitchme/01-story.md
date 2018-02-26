@@ -1,4 +1,4 @@
-![poo](assets/images/big_poo.png)&size=30%
+![poo](assets/images/big_poo.png)&size=auto 30%
 
 +++
 
