@@ -1,11 +1,10 @@
----?image=assets/images/61030003.jpg&size=contain
+![poo](assets/images/big_poo.png)&size=30%
 
-+++ 
++++
 
 Installing a simple python app
  
 +++
-
 
 ```bash
 $ pip install some-package
@@ -28,3 +27,4 @@ stack overflow
 +++?image=assets/images/totem.jpg&size=contain
 
 
++++?image=assets/images/61030003.jpg&size=contain
