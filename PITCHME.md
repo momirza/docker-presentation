@@ -20,3 +20,12 @@
 +++?include=pitchme/03-compose.md
 
 @fa[info fa-3x]
+
+?include=pitchme/04-uses.md
+
+--- 
+
+@fa[flag-checkered fa-3x]
+
+?include=pitchme/05-closing.md
+
