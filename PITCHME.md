@@ -21,11 +21,11 @@
 
 @fa[info fa-3x]
 
-?include=pitchme/04-uses.md
++++?include=pitchme/04-uses.md
 
 --- 
 
 @fa[flag-checkered fa-3x]
 
-?include=pitchme/05-closing.md
++++?include=pitchme/05-closing.md
 
