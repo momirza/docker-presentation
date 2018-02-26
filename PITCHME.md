@@ -18,3 +18,5 @@
 @fa[cogs fa-3x]
 
 +++?include=pitchme/03-compose.md
+
+@fa[info fa-3x]
