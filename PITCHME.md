@@ -19,7 +19,7 @@
 
 +++?include=pitchme/03-compose.md
 
-@fa[info fa-3x]
+---?image=assets/images/terrible_old_i.svg&size=auto 25%
 
 +++?include=pitchme/04-uses.md
 
