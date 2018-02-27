@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  frontend:
+    build: ./django-backend
+  depends_on:
+    - backend
+  backend:
+    build: ./django-backend
+  depend_on:
+    - db
+  db:
+    image: postgres:10.2

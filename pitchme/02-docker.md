@@ -15,3 +15,8 @@ CMD ["/start.sh"]
 @[4](Start the server when container launches)
 
 +++?image=assets/images/whale_of_a_time.jpg&size=auto 50%&color=rgb(33, 178, 143)
+
+
++++
+
+`docker run -it ubuntu`
