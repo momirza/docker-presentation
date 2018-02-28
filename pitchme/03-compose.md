@@ -1,4 +1,4 @@
-<span class="docker-blue">`docker-compose.yml`</span>
+`docker-compose.yml`
 
 +++?code=code/docker-compose.yml&lang=yaml
 
