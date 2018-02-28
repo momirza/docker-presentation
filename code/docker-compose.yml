@@ -2,12 +2,20 @@ version: '3'
 
 services:
   frontend:
-    build: ./django-backend
-  depends_on:
-    - backend
+    build: ./react-frontend
+    depends_on:
+      - backend
   backend:
-    build: ./django-backend
-  depend_on:
-    - db
+    build: ./flask-backend
+    environment:
+      - FLASK_APP=hello.py
+      - FLASK_DEBUG=1
+    depends_on:
+      - db
+    volumes:
+      - ./flask-backend/app:/app
+    ports:
+      - 5000:5000
+
   db:
     image: postgres:10.2
