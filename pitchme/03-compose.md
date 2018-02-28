@@ -1,8 +1,10 @@
-hello
+<span class="docker-blue">`docker-compose.yml`</span>
 
 +++?code=code/docker-compose.yml&lang=yaml
 
-@[4-11]
-@[5-8]
-@[10-16]
-@[18-24]
+@[3] Define your services here.
+@[4-11] The frontend service.
+@[5] Location of app code.
+@[6-7] Volumes mounts.
+@[8-9] Ports mapped.
+@[10-11] Service dependencies.

@@ -10,6 +10,10 @@
     color: white;
 }
 
+.docker-blue {
+    color: #0075c9;
+}
+
 span.byline, span.aside {
   color: #bbb;
 }
