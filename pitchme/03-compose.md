@@ -4,7 +4,7 @@
 
 @[3](Define your services here.)
 @[4-11](A frontend service.)
-@[5](Location of app code.)
+@[5](Build context.)
 @[6-7](Volumes mounts.)
 @[8-9](Ports mapped.)
 @[10-11](Service dependencies.)
