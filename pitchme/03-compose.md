@@ -7,6 +7,5 @@
 @[5](Build context)
 @[6-7](Volumes mounts – <span class="gray">`host:container`</span>)
 @[8-9](Ports mapped – <span class="gray">`host:container`</span>)
-@[10-11](Service dependencies)
-@[12-22](A backend service)
-@[14-16](Environment variables)
+@[10-20](A backend service)
+@[12-14](Environment variables)

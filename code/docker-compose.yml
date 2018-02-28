@@ -7,8 +7,6 @@ services:
       - ./react-frontend/app/src/:/app/src
     ports:
       - 3000:3000
-    depends_on:
-      - backend
   backend:
     build: ./flask-backend
     environment:
