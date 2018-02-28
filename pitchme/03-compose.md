@@ -1,6 +1,6 @@
 hello
 
-+++?code=code/docker-compose.yml
++++?code=code/docker-compose.yml&lang=yaml
 
 @[1-3]
 @[5-8]
