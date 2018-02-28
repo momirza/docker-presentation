@@ -1,11 +1,9 @@
 from flask import Flask
-from flask_cors import CORS
 
 from pymongo import MongoClient
 import json
 
 app = Flask(__name__)
-CORS(app)
 
 client = MongoClient("db", 27017)
 
