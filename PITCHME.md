@@ -1,6 +1,6 @@
 @title[Introduction]
 ## Development with Containers
-##### <span style="font-family:Helvetica Neue; font-weight:bold">Using <span style="color:#0075c9">Docker</span> locally</span>
+##### <span style="font-family:Helvetica Neue; font-weight:bold">Using <span class="docker-blue">Docker</span> locally</span>
 
 @fa[docker] 
 
