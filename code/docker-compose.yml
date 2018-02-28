@@ -3,6 +3,10 @@ version: '3'
 services:
   frontend:
     build: ./react-frontend
+    volumes:
+      - ./react-frontend/app/src/:/app/src
+    ports:
+      - 3000:3000
     depends_on:
       - backend
   backend:
@@ -10,12 +14,17 @@ services:
     environment:
       - FLASK_APP=hello.py
       - FLASK_DEBUG=1
-    depends_on:
-      - db
     volumes:
       - ./flask-backend/app:/app
     ports:
       - 5000:5000
-
+    depends_on:
+      - db
   db:
-    image: postgres:10.2
+    image: mongo:3.6
+    volumes:
+      - ./db/initdb.js:/docker-entrypoint-initdb.d/initdb.js
+    ports:
+      - 27017:27017
+  nginx:
+    image: nginx:1.12.2
