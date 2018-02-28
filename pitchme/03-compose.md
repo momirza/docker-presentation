@@ -8,3 +8,5 @@
 @[6-7](Volumes mounts – <span class="gray">`host:container`</span>)
 @[8-9](Ports mapped – <span class="gray">`host:container`</span>)
 @[10-11](Service dependencies.)
+@[12-22](A backend service.)
+@[14-16](Environment variables.)
