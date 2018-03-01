@@ -9,7 +9,7 @@
 
 --- 
 
-@fa[lightbulb-o fa-3x]
++++?image=assets/images/ughh.JPG&size=auto 50%&color=rgb(33, 178, 143)
 
 +++?include=pitchme/02-docker.md
 
