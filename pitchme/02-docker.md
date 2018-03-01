@@ -22,4 +22,4 @@ Docker allows you to build and run in code in <span class="gold">containers</spa
 
 `docker build -t moo .`
 
-+++?image=assets/images/whale_of_a_time.jpg&size=contain 50%&color=rgb(33, 178, 143)
++++?image=assets/images/whale_of_a_time.jpg&size=auto 30%&color=rgb(33, 178, 143)
