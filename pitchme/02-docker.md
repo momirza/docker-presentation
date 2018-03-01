@@ -1,4 +1,4 @@
-Docker allows you to build and run in code in <span class="gold">containers</span>
+Docker allows you to build and run code in <span class="gold">containers</span>
 
 +++
 
