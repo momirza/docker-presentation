@@ -10,8 +10,8 @@
 +++?code=code/cow/Dockerfile&lang=dockerfile
 
 @[1](Download Ubuntu 16.04 from Docker Registry)
-@[3-4](Update package manager and install `cowsay`)
-@[6](Change the default entrypoint for the container to `cowsay`)
+@[3-4](Update package manager and install <span class="gray">`cowsay`</span>)
+@[6](Change the default entrypoint for the container to <span class="gray"`cowsay`</span>)
 
 +++
 
