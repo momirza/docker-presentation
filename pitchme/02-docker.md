@@ -2,6 +2,15 @@ Docker allows you to build and run in code in <span class="gold">containers</spa
 
 +++
 
+A container is a lightweight VM
+
++++
+
+
+VMs vs Containers slide
+
++++
+
 @fa[bolt fa-3x]
 
 +++
