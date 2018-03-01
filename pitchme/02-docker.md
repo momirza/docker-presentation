@@ -17,6 +17,6 @@
 
 @fa[wrench 3x]
 
-`docker build -t cowfortune .`
+`docker build -t moo .`
 
 +++?image=assets/images/whale_of_a_time.jpg&size=auto 50%&color=rgb(33, 178, 143)
