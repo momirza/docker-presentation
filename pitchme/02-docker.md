@@ -7,9 +7,9 @@ A container is a lightweight VM
 +++
 
 
-+++?image=assets/images/VM.png&size=auto 40%
 
-+++?image=assets/images/containers.png&size=auto 40%
++++?image=assets/images/VM.png&size=contain
++++?image=assets/images/containers.png&size=contain
 
 
 +++
