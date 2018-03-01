@@ -7,7 +7,10 @@ A container is a lightweight VM
 +++
 
 
-VMs vs Containers slide
++++?image=assets/images/VM.png&size=auto 40%
+
++++?image=assets/images/containers.png&size=auto 40%
+
 
 +++
 
