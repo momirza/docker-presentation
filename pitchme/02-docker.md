@@ -1,3 +1,6 @@
+Docker allows you to build and run in code in <span class="gold">containers</span>
+
++++
 
 @fa[bolt fa-3x]
 
