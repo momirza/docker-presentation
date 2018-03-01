@@ -19,7 +19,7 @@ Error: You have no permissions
 ![vulnerability](assets/images/python_exploit.png)
 
 
-+++?image=assets/images/ughh.JPG&size=contain
++++?image=assets/images/ughh.JPG&size=cover
 
 
 +++?image=assets/images/61030003.jpg&size=contain
