@@ -11,8 +11,8 @@ services diagram goes here
 │   └── docker-compose.yml
 ```
 
-[2-5](Services)
-[6](Configuration)
+@[2-5](Services)
+@[6](Configuration)
 
 +++
 
