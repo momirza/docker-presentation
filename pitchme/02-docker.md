@@ -4,10 +4,6 @@ Docker allows you to build and run code in <span class="gold">containers</span>
 
 A container is a lightweight VM
 
-+++
-
-
-
 +++?image=assets/images/VM.png&size=contain
 +++?image=assets/images/containers.png&size=contain
 
