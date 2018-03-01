@@ -8,7 +8,7 @@
 
 ---
 
-@fa[code 3x]
+@fa[code fa-3x]
 
 +++?image=assets/images/Docker-logo.png&size=auto 50%&color=#e7e7e7
 
