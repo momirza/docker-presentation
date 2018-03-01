@@ -5,11 +5,11 @@ Installing a simple python app
 
 ```bash
 $ pip install -r requirements.txt
-Unhandled exception in thread started by <function wrapper at 0x108e72c80>
+Unhandled exception
     import magic
-  File "~/.virtualenvs/django/lib/python2.7/site-packages/magic.py", line 176, in <module>
-    raise ImportError('failed to find libmagic.  Check your installation')
-ImportError: failed to find libmagic.  Check your installation
+  File "/lib/python2.7/site-packages/magic.py", line 176, in <module>
+    raise ImportError('failed to find libmagic')
+ImportError: failed to find libmagic.
 ```
 
 +++?image=assets/images/works.png&size=cover
