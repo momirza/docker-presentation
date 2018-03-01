@@ -10,8 +10,6 @@
 <span class="gold">`Dockerfile`</span> for the Django App
 <br>
 
-+++
-
 +++?code=code/cow&lang=dockerfile
 
 @[1](Download Ubuntu 16:04 from Docker Registry)
