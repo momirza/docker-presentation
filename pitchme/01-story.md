@@ -7,7 +7,7 @@ Installing a simple python app
 $ pip install -r requirements.txt
 Unhandled exception in thread started by <function wrapper at 0x108e72c80>
     import magic
-  File "/Users/mo/.virtualenvs/django/lib/python2.7/site-packages/magic.py", line 176, in <module>
+  File "~/.virtualenvs/django/lib/python2.7/site-packages/magic.py", line 176, in <module>
     raise ImportError('failed to find libmagic.  Check your installation')
 ImportError: failed to find libmagic.  Check your installation
 ```
