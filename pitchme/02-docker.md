@@ -1,5 +1,5 @@
 
-<span class="lightning-yellow">@fa[bolt fa-3x]</span>
+@fa[bolt fa-3x]
 
 +++
 
