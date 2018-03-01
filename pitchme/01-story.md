@@ -7,7 +7,7 @@ Installing a simple python app
 $ pip install -r requirements.txt
 Unhandled exception
     import magic
-  File "/lib/python2.7/site-packages/magic.py", line 176, in <module>
+  File "/python2.7/site-packages/magic.py", line 176
     raise ImportError('failed to find libmagic')
 ImportError: failed to find libmagic.
 ```
