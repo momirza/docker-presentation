@@ -82,3 +82,7 @@ Traceback (most recent call last):
     raise ImportError('failed to find libmagic.  Check your installation')
 ImportError: failed to find libmagic.  Check your installation
 ```
+
++++
+
+Is there a better way?
