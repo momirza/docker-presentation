@@ -12,9 +12,7 @@ Error: You have no permissions
 
 ![works on my machine](assets/images/works_on_my_machine.png)
 
-+++
-
-stack overflow
++++?image=assets/images/stack-overflow.png&size=contain
 
 +++
 
