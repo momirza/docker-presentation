@@ -10,7 +10,7 @@
 <span class="gold">`Dockerfile`</span> for the Django App
 <br>
 
-+++?code=code/cow&lang=dockerfile
++++?code=code/cow/Dockerfile&lang=dockerfile
 
 @[1](Download Ubuntu 16:04 from Docker Registry)
 @[3-4](Update package manager and install cowsay)
