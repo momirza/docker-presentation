@@ -5,7 +5,7 @@
 
 `docker run -it ubuntu`
 
-+++?image=assets/images/holy_cow.png&size=auto 10%
++++?image=assets/images/holy_cow.png&size=auto 22%
 
 +++?code=code/cow/Dockerfile&lang=dockerfile
 
