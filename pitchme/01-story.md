@@ -8,9 +8,7 @@ $ pip install some-package
 Error: You have no permissions
 ``` 
 
-+++?image=assets/images/use_pyenv.jpg&size=contain
-
-![works on my machine](assets/images/works_on_my_machine.png)
++++?image=assets/images/works.png&size=cover
 
 +++?image=assets/images/stack-overflow.png&size=contain
 
