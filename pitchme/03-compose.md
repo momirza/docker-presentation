@@ -3,7 +3,7 @@ services diagram goes here
 +++
 
 ```
-├── /
+├── code/
 │   ├── db/
 │   ├── flask-backend/
 │   ├── nginx/
