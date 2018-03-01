@@ -18,6 +18,10 @@ span.byline, span.aside {
   color: #bbb;
 }
 
+.lightning-yellow {
+    background-color: #f7e900
+}
+
 span.byline {
   font-size: 80%;
 }
