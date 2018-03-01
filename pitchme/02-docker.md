@@ -5,10 +5,7 @@
 
 `docker run -it ubuntu`
 
-+++
-
-<span class="gold">`Dockerfile`</span> for the Django App
-<br>
++++?image=assets/images/holy_cow.png&size=auto 10%
 
 +++?code=code/cow/Dockerfile&lang=dockerfile
 
