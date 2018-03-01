@@ -1,4 +1,18 @@
-diagram goes here
+services diagram goes here
+
++++
+
+```
+├── /
+│   ├── db/
+│   ├── flask-backend/
+│   ├── nginx/
+│   ├── react-frontend/
+│   └── docker-compose.yml
+```
+
+[2-5](Services)
+[6](Configuration)
 
 +++
 
