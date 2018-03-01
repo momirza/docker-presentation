@@ -7,9 +7,7 @@
 ---?image=assets/images/big_poo.png&size=auto 15%
 +++?include=pitchme/01-story.md
 
---- 
-
-+++?image=assets/images/ughh.JPG&size=auto 50%&color=rgb(33, 178, 143)
+---?image=assets/images/Docker-logo.JPG&size=auto 50%&color=rgb(33, 178, 143)
 
 +++?include=pitchme/02-docker.md
 
