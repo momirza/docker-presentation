@@ -8,17 +8,18 @@ import axios from 'axios';
 class App extends Component {
   constructor(props) {
   	super(props);
-    this.state = {
-    	data: null
-    };
+    this.state = {};
   }
 
 
   componentDidMount() {
-  	axios.get('/api/')
-    .then((res) => {
-                this.setState({data: res.data});
-    });
+    axios.all([
+      axios.get('/api/hello'),
+      axios.get('/api/version')
+    ])
+    .then(axios.spread( (hello, version) => {
+      this.setState({ hello: hello.data, version: version.data});
+    }));
   }
 
   render() {
@@ -27,9 +28,11 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
         </header>
-
         <p className="App-intro">
-            {this.state.data}
+            {this.state.hello}
+        </p>
+        <p className="App-version">
+          {this.state.version}
         </p>
       </div>
     );

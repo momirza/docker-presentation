@@ -27,3 +27,7 @@ services diagram goes here
 @[4, 6-7, 8, 10-11](Volumes mounts – <span class="gray">`host:container`</span>)
 @[12-14](Environment variables)
 
++++
+
+That wasn't so painful!
+
