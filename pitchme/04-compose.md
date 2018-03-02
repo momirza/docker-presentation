@@ -29,5 +29,10 @@ services diagram goes here
 
 +++
 
+`docker-compose up --build`
+
++++
+
+
 That wasn't so painful!
 

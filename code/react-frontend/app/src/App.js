@@ -32,7 +32,7 @@ class App extends Component {
             {this.state.hello}
         </p>
         <p className="App-version">
-          {this.state.version}
+          Flask version: {this.state.version}
         </p>
       </div>
     );
