@@ -10,23 +10,25 @@
 
 @fa[code fa-3x]
 
-+++?image=assets/images/Docker-logo.png&size=auto 50%&color=#e7e7e7
++++?include=pitchme/02-iac.md
 
-+++?include=pitchme/02-docker.md
+---?image=assets/images/Docker-logo.png&size=auto 50%&color=#e7e7e7
+
++++?include=pitchme/03-docker.md
 
 ---
 
 @fa[cogs fa-3x]
 
-+++?include=pitchme/03-compose.md
++++?include=pitchme/04-compose.md
 
 ---?image=assets/images/iwoca-i.svg&size=auto 7%
 
-+++?include=pitchme/04-uses.md
++++?include=pitchme/05-uses.md
 
 --- 
 
 @fa[flag-checkered fa-3x]
 
-+++?include=pitchme/05-closing.md
++++?include=pitchme/06-closing.md
 

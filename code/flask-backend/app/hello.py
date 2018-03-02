@@ -10,4 +10,6 @@ client = MongoClient("db", 27017)
 
 @app.route("/api/")
 def hello():
-    return json.dumps(client['test']['welcome'].find_one()['welcome_text'])
+    return json.dumps(
+        client['test']['welcome'].find_one()['welcome_text']
+    )

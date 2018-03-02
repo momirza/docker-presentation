@@ -16,6 +16,10 @@ A container is a lightweight VM
 
 `docker run -it ubuntu`
 
++++
+
+You can build you own images by writing a `Dockerfile`
+
 +++?image=assets/images/holy_cow.png&size=auto 22%
 
 +++?code=code/cow/Dockerfile&lang=dockerfile
@@ -30,4 +34,9 @@ A container is a lightweight VM
 
 `docker build -t moo .`
 
-+++?image=assets/images/whale_of_a_time.jpg&size=auto 30%&color=rgb(33, 178, 143)
+
++++
+
+That's cool but what about microservices?
+
+<theed face here>
