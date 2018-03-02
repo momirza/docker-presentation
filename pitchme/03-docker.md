@@ -18,7 +18,7 @@ A container is a lightweight VM
 
 +++
 
-You can build you own images by writing a `Dockerfile`
+You can build you own images by writing a <span class="gray">`Dockerfile`</span>
 
 +++?image=assets/images/holy_cow.png&size=auto 22%
 
