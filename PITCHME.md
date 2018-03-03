@@ -30,7 +30,7 @@
 
 +++?image=assets/images/mongodb-logo.png&size=auto 15%
 
-+++?image=assets/images/demo-architecture.png&size=auto 100%
++++?image=assets/images/demo-architecture.png&size=auto 110%
 
 +++?image=assets/images/whale_of_a_time.jpg&size=auto 35%&color=rgb(33, 178, 143)
 
