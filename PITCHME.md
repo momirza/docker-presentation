@@ -20,13 +20,13 @@
 
 @fa[cogs fa-3x]
 
-+++?image=assets/images/flask-logo.png?size=auto 20%
++++?image=assets/images/flask-logo.png?size=auto 5%
 
-+++?image=assets/images/react-logo.png?size=auto 20%
++++?image=assets/images/react-logo.png?size=auto 5%
 
-+++?image=assets/images/nginx-logo.png?size=auto 20%
++++?image=assets/images/nginx-logo.png?size=auto 5%
 
-+++?image=assets/images/mongodb-logo.png?size=auto 20%
++++?image=assets/images/mongodb-logo.png?size=auto 5%
 
 +++?image=assets/images/whale_of_a_time.jpg&size=auto 50%&color=rgb(33, 178, 143)
 
