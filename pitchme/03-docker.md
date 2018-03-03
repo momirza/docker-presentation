@@ -26,7 +26,7 @@ You can build you own images by writing a <span class="gray">`Dockerfile`</span>
 
 @[1](Download Ubuntu 16.04 from Docker Registry)
 @[3](Update package manager and install <span class="gray">`cowsay`</span>)
-@[5](Change the default entrypoint of the container to <span class="gray">`cowsay`</span>)
+@[4](Change the default entrypoint of the container to <span class="gray">`cowsay`</span>)
 
 +++
 
