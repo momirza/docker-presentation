@@ -32,6 +32,20 @@
 
 +++?image=assets/images/demo-architecture.png&size=auto 110%
 
++++
+
+```ascii
+├── code/
+│   ├── db/
+│   ├── flask-backend/
+│   ├── nginx/
+│   ├── react-frontend/
+│   └── docker-compose.yml
+```
+
+@[2-5](Services)
+@[6](Configuration)
+
 +++?include=pitchme/04-compose.md
 
 
