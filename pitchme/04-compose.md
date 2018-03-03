@@ -12,7 +12,7 @@
 
 +++?image=assets/images/whale_of_a_time.jpg&size=auto 35%&color=rgb(33, 178, 143)
 <br><br><br><br><br>
-`docker-compose up --build`
+<span class="white">`docker-compose up --build`</span>
 
 +++
 
