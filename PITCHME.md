@@ -8,7 +8,7 @@
 
 ---
 
-@fa[code fa-3x]
+@fa[code fa-4x]
 
 +++?include=pitchme/02-iac.md
 
@@ -18,7 +18,7 @@
 
 ---
 
-@fa[cogs fa-3x]
+@fa[cogs fa-4x]
 
 +++?image=assets/images/flask-logo.png&size=auto 30%
 
@@ -32,13 +32,13 @@
 
 +++?include=pitchme/04-compose.md
 
----?image=assets/images/iwoca-i.svg&size=auto 7%
+---?image=assets/images/iwoca-i.svg&size=auto 13%
 
 +++?include=pitchme/05-uses.md
 
 --- 
 
-@fa[flag-checkered fa-3x]
+@fa[flag-checkered fa-4x]
 
 +++?include=pitchme/06-closing.md
 

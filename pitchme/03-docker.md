@@ -10,7 +10,7 @@ A container is a lightweight VM
 
 +++
 
-@fa[bolt fa-3x]
+@fa[bolt fa-4x]
 
 +++
 
@@ -30,7 +30,7 @@ You can build you own images by writing a <span class="gray">`Dockerfile`</span>
 
 +++
 
-@fa[wrench 3x]
+@fa[wrench 4x]
 
 `docker build -t moo .`
 
