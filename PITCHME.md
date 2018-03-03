@@ -26,7 +26,7 @@
 
 +++?image=assets/images/nginx-logo.png&size=auto 10%
 
-+++?image=assets/images/mongodb-logo.png&size=auto 10%
++++?image=assets/images/mongodb-logo.png&size=auto 15%
 
 +++?image=assets/images/whale_of_a_time.jpg&size=auto 35%&color=rgb(33, 178, 143)
 
