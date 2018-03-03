@@ -1,8 +1,8 @@
+import axios from 'axios';
 import React, { Component } from 'react';
+
 import logo from './iwoca-Logo.svg';
 import './App.css';
-
-import axios from 'axios';
 
 
 class App extends Component {
