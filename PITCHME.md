@@ -22,7 +22,7 @@
 
 +++?image=assets/images/flask-logo.png&size=auto 30%
 
-+++?image=assets/images/react-logo.png&size=auto 40%
++++?image=assets/images/react-logo.png&size=auto 40%&color=#222
 
 +++?image=assets/images/nginx-logo.png&size=auto 10%
 
