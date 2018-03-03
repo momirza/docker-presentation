@@ -18,13 +18,18 @@ A container is a lightweight VM
 
 +++
 
-You can build you own images by writing a <span class="gray">`Dockerfile`</span>
+You can build your own images by writing a <span class="gray">`Dockerfile`</span>
 
 +++?image=assets/images/holy_cow.png&size=auto 22%
 
 +++?code=code/cow/Dockerfile&lang=dockerfile
 
 @[1](Download Ubuntu 16.04 from Docker Registry)
+
++++?image=assets/images/docker-store.png&size=contain
+
++++?code=code/cow/Dockerfile&lang=dockerfile
+
 @[3](Update package manager and install <span class="gray">`cowsay`</span>)
 @[4](Change the default entrypoint of the container to <span class="gray">`cowsay`</span>)
 

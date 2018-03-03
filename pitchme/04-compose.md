@@ -1,8 +1,4 @@
 
-services diagram goes here...
-
-+++
-
 ```ascii
 ├── code/
 │   ├── db/

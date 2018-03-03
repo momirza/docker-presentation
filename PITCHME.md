@@ -6,6 +6,7 @@
 ---?image=assets/images/big_poo.png&size=auto 15%
 +++?include=pitchme/01-story.md
 
+
 ---
 
 @fa[code fa-4x]
@@ -15,6 +16,7 @@
 ---?image=assets/images/Docker-logo.png&size=auto 50%&color=#e7e7e7
 
 +++?include=pitchme/03-docker.md
+
 
 ---
 
@@ -28,13 +30,19 @@
 
 +++?image=assets/images/mongodb-logo.png&size=auto 15%
 
++++
+
+services diagram goes here...
+
 +++?image=assets/images/whale_of_a_time.jpg&size=auto 35%&color=rgb(33, 178, 143)
 
 +++?include=pitchme/04-compose.md
 
+
 ---?image=assets/images/iwoca-i.svg&size=auto 13%
 
 +++?include=pitchme/05-uses.md
+
 
 --- 
 
