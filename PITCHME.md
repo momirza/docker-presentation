@@ -49,7 +49,7 @@
 +++?include=pitchme/04-compose.md
 
 
----?image=assets/images/iwoca-i.svg&size=auto 13%
+---?image=assets/images/iwoca-i.svg&size=auto 17%
 
 +++?include=pitchme/05-uses.md
 
