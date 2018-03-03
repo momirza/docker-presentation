@@ -14,6 +14,7 @@ def hello():
         client['test']['welcome'].find_one()['welcome_text']
     )
 
+
 @app.route("/api/version")
 def version():
     return json.dumps(

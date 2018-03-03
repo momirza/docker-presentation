@@ -41,5 +41,3 @@ class App extends Component {
 
 export default App;
 
-
-// https://jsfiddle.net/echo/js/?js=hello%20world!
