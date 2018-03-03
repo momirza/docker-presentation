@@ -20,6 +20,16 @@
 
 @fa[cogs fa-3x]
 
++++?image=assets/images/flask-logo.png?size=contain 70%
+
++++?image=assets/images/react-logo.png?size=contain 70%
+
++++?image=assets/images/nginx-logo.png?size=contain 70%
+
++++?image=assets/images/mongodb-logo.png?size=contain 70%
+
++++?image=assets/images/whale_of_a_time.jpg&size=auto 50%&color=rgb(33, 178, 143)
+
 +++?include=pitchme/04-compose.md
 
 ---?image=assets/images/iwoca-i.svg&size=auto 7%

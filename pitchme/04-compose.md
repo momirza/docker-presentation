@@ -1,14 +1,3 @@
-+++?image=assets/images/flask-logo.png?size=contain 70%
-
-+++?image=assets/images/react-logo.png?size=contain 70%
-
-+++?image=assets/images/nginx-logo.png?size=contain 70%
-
-+++?image=assets/images/mongodb-logo.png?size=contain 70%
-
-+++?image=assets/images/whale_of_a_time.jpg&size=auto 50%&color=rgb(33, 178, 143)
-
-+++
 
 services diagram goes here
 
