@@ -32,8 +32,6 @@
 
 +++?image=assets/images/demo-architecture.png&size=auto 110%
 
-+++?image=assets/images/whale_of_a_time.jpg&size=auto 35%&color=rgb(33, 178, 143)
-
 +++?include=pitchme/04-compose.md
 
 
