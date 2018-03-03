@@ -11,7 +11,6 @@ class App extends Component {
     this.state = {};
   }
 
-
   componentDidMount() {
     axios.all([
       axios.get('/api/hello'),
