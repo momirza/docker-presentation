@@ -11,6 +11,34 @@
 
 @fa[code fa-4x]
 
++++
+
+Self-service
+
++++
+
+Speed and safety
+
++++
+
+Documentation
+
++++
+
+Version Control
+
++++
+
+Validation
+
++++
+
+Reuse
+
++++
+
+Maybe happiness?
+
 +++?image=assets/images/docker-whale-home-logo.png&size=auto 25%
 +++?image=assets/images/terraform.png&size=auto 35%
 +++?image=assets/images/ecs.png&size=auto 30%
@@ -51,7 +79,6 @@
 @[6](Configuration)
 
 +++?include=pitchme/04-compose.md
-
 
 ---?image=assets/images/iwoca-i.svg&size=auto 20%
 
