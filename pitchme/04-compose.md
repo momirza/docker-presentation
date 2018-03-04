@@ -22,9 +22,9 @@
 
 @[1](Download image from ubuntu)
 @[3](Install system level dependencies)
-@[4-5](Install app dependencies)
-@[6-7](Setup working directory and app code)
-@[9](Run dev server)
+@[5-7](Install app dependencies)
+@[9-11](Setup working directory and app code)
+@[13](Run dev server)
 
 +++?code=code/docker-compose.yml&lang=yaml
 
