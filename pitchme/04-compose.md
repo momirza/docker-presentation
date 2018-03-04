@@ -12,7 +12,19 @@
 
 +++?code=code/react-frontend/Dockerfile&lang=dockerfile
 
+@[1](Node image from Docker registry)
+@[3](Specify default working directory)
+@[4-5](Copy requirements and install them)
+@[6](Copy app code)
+@[8](Run dev server)
+
 +++?code=code/flask-backend/Dockerfile&lang=dockerfile
+
+@[1](Download image from ubuntu)
+@[3](Install system level dependencies)
+@[4-5](Install app dependencies)
+@[6-7](Setup working directory and app code)
+@[9](Run dev server)
 
 +++?code=code/docker-compose.yml&lang=yaml
 
