@@ -18,8 +18,8 @@
 
 @[17-31](Containers built from official images)
 @[19-20,25-26](Volume mounts to configure containers)
-@[19-20](Data migration to populate Mongo)
-@[25-26](NGINX config)
+@[17,19-20](Data migration to populate Mongo)
+@[23,25-26](NGINX config)
 @[29-31](Upstream server dependencies)
 @[8,15-16](Database dependencies)
 @[21-22,27-28](Container port mappings to host)
