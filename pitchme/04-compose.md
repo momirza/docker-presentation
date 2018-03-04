@@ -8,7 +8,7 @@
 @[8-16](A backend service)
 @[4-5, 8-9](Build context)
 @[4, 6-7, 8, 10-11](Volumes mounts – <span class="gray">`host:container`</span>)
-@[12-14](Environment variables)
+@[8,12-14](Environment variables)
 
 +++?code=code/react-frontend/Dockerfile&lang=dockerfile
 
