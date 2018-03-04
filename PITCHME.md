@@ -12,7 +12,7 @@
 @fa[code fa-4x]
 
 +++?image=assets/images/docker-whale-home-logo.png&size=auto 25%
-+++?image=assets/images/terraform-logo.png&size=auto 25%
++++?image=assets/images/terraform.png&size=auto 25%
 +++?image=assets/images/ecs.png&size=auto 25%
 
 +++?include=pitchme/02-iac.md
