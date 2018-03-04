@@ -1,5 +1,5 @@
 
-Installing a simple python app
+Working on the Django project...
  
 +++
 
