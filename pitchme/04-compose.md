@@ -20,7 +20,7 @@
 
 +++?code=code/flask-backend/Dockerfile&lang=dockerfile
 
-@[1](Download image from ubuntu)
+@[1](Ubuntu image from Docker registry)
 @[3](Install system level dependencies)
 @[5-7](Install app dependencies)
 @[9-11](Setup working directory and app code)
