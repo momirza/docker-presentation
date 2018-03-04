@@ -85,6 +85,8 @@ Maybe happiness?
 
 +++?image=assets/images/maicol.JPG&size=contain&color=#e6f0fc
 
++++?image=assets/images/hermes.jpg
+
 
 
 +++?include=pitchme/05-uses.md
