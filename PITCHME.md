@@ -81,17 +81,11 @@ Maybe happiness?
 
 ---?image=assets/images/iwoca-i.svg&size=auto 20%
 
-
 +++?image=assets/images/gitlab.png&size=contain
 
 +++?image=assets/images/maicol.JPG&size=contain&color=#e6f0fc
 
 +++?image=assets/images/hermes.jpg&size=auto
-
-
-
-+++?include=pitchme/05-uses.md
-
 
 --- 
 
