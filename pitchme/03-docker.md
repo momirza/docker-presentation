@@ -31,7 +31,7 @@ You can build your own images by writing a <span class="gray">`Dockerfile`</span
 +++?code=code/cow/Dockerfile&lang=dockerfile
 
 @[3](Update package manager and install <span class="gray">`cowsay`</span>)
-@[4](Change the default entrypoint of the container to <span class="gray">`cowsay`</span>)
+@[5](Change the default entrypoint of the container to <span class="gray">`cowsay`</span>)
 
 +++
 
