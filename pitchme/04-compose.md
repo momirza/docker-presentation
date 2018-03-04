@@ -14,9 +14,9 @@
 
 @[1](Node image from Docker registry)
 @[3](Specify default working directory)
-@[4-5](Copy requirements and install them)
-@[6](Copy app code)
-@[8](Run dev server)
+@[5-7](Copy requirements and install them)
+@[9](Copy app code)
+@[11](Run dev server)
 
 +++?code=code/flask-backend/Dockerfile&lang=dockerfile
 
