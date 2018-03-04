@@ -51,6 +51,13 @@
 
 ---?image=assets/images/iwoca-i.svg&size=auto 20%
 
+
++++?image=assets/images/gitlab.png&size=contain
+
++++?image=assets/images/maicol.png&size=contain
+
+
+
 +++?include=pitchme/05-uses.md
 
 
