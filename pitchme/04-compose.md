@@ -29,12 +29,12 @@
 +++?code=code/docker-compose.yml&lang=yaml
 
 @[17-31](Containers built from official images)
-@[19-20,25-26](Volume mounts to configure containers)
+@[17,19-20,23,25-26](Volume mounts to configure containers)
 @[17,19-20](Data migration to populate Mongo)
 @[23,25-26](NGINX config)
-@[29-31](Upstream server dependencies)
+@[23,29-31](Upstream server dependencies)
 @[8,15-16](Database dependencies)
-@[21-22,27-28](Container port mappings to host)
+@[17,21-22,23,27-28](Container port mappings to host)
 
 +++?image=assets/images/demo-architecture.png&size=auto 110%
 
