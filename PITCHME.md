@@ -54,7 +54,7 @@
 
 +++?image=assets/images/gitlab.png&size=contain
 
-+++?image=assets/images/maicol.png&size=contain
++++?image=assets/images/maicol.JPG&size=contain
 
 
 
