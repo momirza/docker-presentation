@@ -25,10 +25,6 @@ ImportError: failed to find libmagic.
 
 
 +++?image=assets/images/61030003.jpg&size=contain
+<br><br>
 
-
-
-
-+++
-
-Is there a better way?
+## <span class="white">Is there a better way?</span>
