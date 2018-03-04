@@ -11,6 +11,8 @@
 
 @fa[code fa-4x]
 
++++?image=assets/images/docker-whale-home-logo.png&size=auto 50%
+
 +++?include=pitchme/02-iac.md
 
 ---?image=assets/images/Docker-logo.png&size=auto 50%&color=#e7e7e7
