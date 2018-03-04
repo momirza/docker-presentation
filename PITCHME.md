@@ -1,6 +1,7 @@
 @title[Introduction]
 ## Development with Containers
-##### <span style="font-family:Helvetica Neue; font-weight:bold">Using <span class="docker-blue">Docker</span> locally</span>
+
+![docker-logo](assets/images/docker-whale-home-logo.png&size=5%
 
 
 ---?image=assets/images/big_poo.png&size=auto 15%
