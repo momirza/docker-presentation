@@ -1,1 +1,1 @@
-https://github.com/momirza/docker-presentation.git
+https://github.com/momirza/docker-presentation
