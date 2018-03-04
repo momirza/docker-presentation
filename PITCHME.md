@@ -43,8 +43,6 @@ Maybe happiness?
 +++?image=assets/images/terraform.png&size=auto 35%
 +++?image=assets/images/ecs.png&size=auto 30%
 
-+++?include=pitchme/02-iac.md
-
 ---?image=assets/images/Docker-logo.png&size=auto 50%&color=#e7e7e7
 
 +++?include=pitchme/03-docker.md
