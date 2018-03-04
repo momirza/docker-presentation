@@ -23,8 +23,6 @@ ImportError: failed to find libmagic.
 
 +++?image=assets/images/ughh.JPG&size=cover
 
++++
 
-+++?image=assets/images/61030003.jpg&size=contain
-<br><br>
-
-### <span class="white">Is there a better way?</span>
+Is there a better way?
