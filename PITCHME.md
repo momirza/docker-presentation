@@ -1,7 +1,7 @@
 @title[Introduction]
 ## Development with Containers
 
-![docker-logo](assets/images/docker-whale-home-logo.png&size=5%
+![docker-logo](assets/images/docker-whale-home-logo.png&size=5%)
 
 
 ---?image=assets/images/big_poo.png&size=auto 15%
