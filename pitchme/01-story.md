@@ -12,7 +12,7 @@ Unhandled exception
 ImportError: failed to find libmagic.
 ```
 
-+++?image=assets/images/works.png&size=auto 50%
++++?image=assets/images/works.png&size=contain
 
 +++?image=assets/images/stack-overflow.png&size=contain
 
