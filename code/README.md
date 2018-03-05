@@ -1,7 +1,6 @@
 # Demo App
 
-![infrastructure](../assets/images/docker.png)
-
+![](../assets/images/demo-architecture.png)
 
 ## To run everything
 
